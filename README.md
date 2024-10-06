@@ -1,7 +1,7 @@
 # Arabic Spell Correction
 
 ## Project Overview
-The **Arabic Spell Checker** is a tool developed to detect and correct misspelled words in Arabic text. Leveraging the Damerau-Levenshtein distance algorithm, this spell checker efficiently identifies and suggests corrections for errors in letters, diacritical marks, or word structure. This project aims to enhance the accuracy of Arabic text processing applications, such as text editors, educational tools, and natural language processing systems.
+The **Arabic Spell Correction** is a tool developed to detect and correct misspelled words in Arabic text. Leveraging the Damerau-Levenshtein distance algorithm, this spell checker efficiently identifies and suggests corrections for errors in letters, diacritical marks, or word structure. This project aims to enhance the accuracy of Arabic text processing applications, such as text editors, educational tools, and natural language processing systems.
 
 ## Problem Definition
 The problem of Arabic spell correction involves detecting and correcting misspelled words in Arabic text. This includes identifying spelling errors due to incorrect letters, diacritical marks, or word structure.
